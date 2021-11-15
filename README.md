@@ -1,5 +1,5 @@
 # Homebridge Discord Mute
-Ever wanted to mute yourself on Discord through homekit? Here's your answer!
+Ever wanted to mute/unmute yourself on Discord through HomeKit? Here's your answer!
 
 
 ## Quick start:

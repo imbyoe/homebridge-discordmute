@@ -27,7 +27,7 @@ motion.prototype = {
   },
   setState: function (context,callback) {
     axios
-      .get(`http://${config.ip_address}/toggle${this.config.type}`)
+      .get(`http://${this.config.ip_address}/toggle${this.config.type}`)
       .then(function (response) {
         isOn = !isOn;
         callback(null, isOn);

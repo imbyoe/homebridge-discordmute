@@ -1,2 +1,2 @@
-# homebridge-discordmute
-A way to mute your discord through homebridge
+# Homebridge muter!
+ever wanted to mute yourself on discord through homekit? here's your answer!
